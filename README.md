@@ -28,6 +28,95 @@
   </a>
 </p>
 
+
+<h2>🔥 Development Fields</h2>
+
+<table align="center">
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <th colspan="2" align="center">### Back-end development</th>
+        </tr>
+        <tr>
+          <th align="center">Laravel</th>
+          <th align="center">PHP</th>
+        <th align="center">NODEJS</th>
+        </tr>
+        <tr>
+          <td align="center">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"
+              height="60"
+            />
+          </td>
+          <td align="center">
+            <img
+              src="https://i0.wp.com/phpmagazine.net/wp-content/uploads/2020/09/php8.png?fit=420%2C206&ssl=1"
+              height="60"
+            />
+          </td>
+           <td align="center">
+            <img
+              src="https://i0.wp.com/phpmagazine.net/wp-content/uploads/2020/09/php8.png?fit=420%2C206&ssl=1"
+              height="60"
+            />
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <th colspan="2" align="center">### Back-end development</th>
+        </tr>
+        <tr>
+          <th align="center">React</th>
+          <th align="center">Javascript</th>
+        </tr>
+        <tr>
+          <td align="center">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+              height="60"
+            />
+          </td>
+          <td align="center">
+            <img
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGkOTa8I43oQY7oO6KpOj4KN73OPCdGZTCw&usqp=CAU"
+              height="60"
+            />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <!-- <tr>
+    <td></td>
+    <td>
+      <table>
+        <tr>
+          <th align="center">React Native</th>
+          <th align="center">Javascript</th>
+        </tr>
+        <tr>
+          <td align="center">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"
+              height="60"
+            />
+          </td>
+          <td align="center">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
+              height="60"
+            />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr> -->
+</table>
 <!-- - 👋 Hi, I’m kenneth Akpan go by the username @kennyendowed
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
