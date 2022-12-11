@@ -39,7 +39,8 @@
           <th colspan="2" align="center">### Back-end development</th>
         </tr>
         <tr>
-          <th align="center">Laravel</th>
+          <th align="center">LARAVEL</th>
+            <th align="center">CODEIGNITER</th>
           <th align="center">PHP</th>
         <th align="center">NODEJS</th>
         </tr>
@@ -47,6 +48,11 @@
           <td align="center">
             <img
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"
+              height="60"
+            />
+          </td>   <td align="center">
+            <img
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS243pzX1KzBmJaFxjiTq-Rg3-Cy4uruXtsXA&usqp=CAU"
               height="60"
             />
           </td>
@@ -58,7 +64,7 @@
           </td>
            <td align="center">
             <img
-              src="https://i0.wp.com/phpmagazine.net/wp-content/uploads/2020/09/php8.png?fit=420%2C206&ssl=1"
+               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGkOTa8I43oQY7oO6KpOj4KN73OPCdGZTCw&usqp=CAU"
               height="60"
             />
           </td>
@@ -83,7 +89,7 @@
           </td>
           <td align="center">
             <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGkOTa8I43oQY7oO6KpOj4KN73OPCdGZTCw&usqp=CAU"
+              src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
               height="60"
             />
           </td>
