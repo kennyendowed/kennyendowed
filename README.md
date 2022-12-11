@@ -74,13 +74,20 @@
     <td>
       <table>
         <tr>
-          <th colspan="2" align="center">### Back-end development</th>
+          <th colspan="2" align="center">### Front-end development</th>
         </tr>
         <tr>
+          <th align="center">Angular</th>
           <th align="center">React</th>
           <th align="center">Javascript</th>
         </tr>
         <tr>
+           <td align="center">
+            <img
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzDllGvySn5mHnC850yo_GYiaqGNYLhx3h7A&usqp=CAU"
+              height="60"
+            />
+          </td>
           <td align="center">
             <img
               src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
