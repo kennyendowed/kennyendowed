@@ -52,7 +52,7 @@
             />
           </td>   <td align="center">
             <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS243pzX1KzBmJaFxjiTq-Rg3-Cy4uruXtsXA&usqp=CAU"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdvBVAaSk2z3-PwjxhWEIg7z37kWxVnydOweX46PeHsi2dkZq37bGEzvmHoiIOLCJBnY&usqp=CAU"
               height="60"
             />
           </td>
