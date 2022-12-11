@@ -30,6 +30,7 @@
 
 
 <h2>🔥 Development Fields</h2>
+<p align="center">💞️ I’m looking to collaborate on ...</p>
 
 <table align="center">
   <tr>
@@ -104,11 +105,7 @@
       </table>
     </td>
   </tr>
-  <h2>🔥 Streak Stats</h2>
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=kennyendowed&theme=dracula" alt="kennyendowed" />
-</p>
   <!-- <tr>
     <td></td>
     <td>
@@ -135,6 +132,11 @@
     </td>
   </tr> -->
 </table>
+  <h2>🔥 Streak Stats</h2>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=kennyendowed&theme=dracula" alt="kennyendowed" />
+</p>
 <!-- - 👋 Hi, I’m kenneth Akpan go by the username @kennyendowed
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
